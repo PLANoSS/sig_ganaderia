@@ -1,6 +1,6 @@
 # CURSO BÁSICO DE SISTEMAS DE INFORMACIÓN GEOGRÁFICA
 
-# ESCUELA DE GANADERÍA SOSTENIBLE
+# Escuela de Ganadería Sostenible
 
 ## Presentaciones
 
