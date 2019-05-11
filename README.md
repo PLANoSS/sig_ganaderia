@@ -19,7 +19,7 @@
 * 2 [Visualización y manejo básico de información geográfica](https://drive.google.com/open?id=0BzlSI5GKglNmRmRLZ29hc0tQLU0)
 * 3 [Fuentes de información geográfica](https://www.dropbox.com/s/24p38ie6mmzyp2j/datos%20campo.csv?dl=0)
   * 3.1 [Configuración Kobo toolbox]()
-  * 3.2 [Datos levantados en campo]()
+  * 3.2 [Datos levantados en campo](https://drive.google.com/open?id=1r4eN3wH7ujthhc1qGtv04wJKJizgbkEM)
 * 4 [Trabajo con datos espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmOHlDbE95anZzcDA)
 * 5 [Edición de datos](https://drive.google.com/open?id=0BzlSI5GKglNmOXdYQ0Y5eFZYTlk)
 * 6 [Simbología y etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmemNxdjZsdVBhMkE)
